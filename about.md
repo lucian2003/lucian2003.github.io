@@ -4,12 +4,19 @@ title: Sobre mi
 permalink: /about/
 ---
 
-Desarrollador de software en Appsypaginasweb.com
+### Información sobre mi
 
-### More Information
+Experiencia: 
 
-A place to include any other types of information that you'd like to include about yourself.
+Freelance
 
-### Contact me
+Creación de páginas web y aplicaciones para Smartphones. Páginas web personales, corporativas, tiendas online, anuncios clasificados… Aplicaciones para móviles (Android / iPhone) para empresas, ayuntamientos, tiendas online…
+
+Appsypaginasweb.com
+
+Desarrollador de software
+[PáginaWeb](https://www.appsypaginasweb.com/)
+
+### Contactar conmigo
 
 [E-mail](mailto:lucian_s2003@yahoo.com)
