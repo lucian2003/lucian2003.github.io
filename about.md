@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:lucian_s2003@yahoo.com)
+[E-mail](mailto:lucian_s2003@yahoo.com)
