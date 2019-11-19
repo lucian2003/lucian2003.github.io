@@ -9,6 +9,7 @@ Páginas web personales, corporativas, tiendas online
 
 ![_config.yml]({{ site.baseurl }}/images/appsypaginasweb.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+Consulte nuestros trabajos en: [AppsyPáginasWeb.com](https://www.appsypaginasweb.com/paginas-web/)
 
 [Volver](https://lucian2003.github.io/)
