@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proyectos IoT
+title: Desarrollo de proyectos IoT
 ---
 
 Proyectos sobre placas Arduino
