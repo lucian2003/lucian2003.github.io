@@ -6,17 +6,17 @@ permalink: /sobre-mi/
 
 ### Información sobre mi
 
-Experiencia: 
+Experiencia laboral:
+Freelance: Desarrollador de software
 
-Freelance
+[AppsyPáginaWeb.com](https://www.appsypaginasweb.com/) - Creación de páginas web y aplicaciones para Smartphones.
 
-Creación de páginas web y aplicaciones para Smartphones. Páginas web personales, corporativas, tiendas online, anuncios clasificados… Aplicaciones para móviles (Android / iPhone) para empresas, ayuntamientos, tiendas online…
-
-Appsypaginasweb.com
-
-Desarrollador de software
-[PáginaWeb](https://www.appsypaginasweb.com/)
+Estudios:
+Grado en IngenierÍa InformÁtica en Unirversidad Internacional de La Rioja
 
 ### Contactar conmigo
 
-[E-mail](mailto:lucian_s2003@yahoo.com)
+[Correo electrónico](mailto:lucian_s2003@yahoo.com)
+[Teléfono](tel:0034611274833)
+
+
