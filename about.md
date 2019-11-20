@@ -16,7 +16,10 @@ Grado en IngenierÍa InformÁtica en Unirversidad Internacional de La Rioja
 
 ### Contactar conmigo
 
+![_config.yml]({{ site.baseurl }}/images/appsypaginasweb.png)
+
 [Correo electrónico](mailto:lucian_s2003@yahoo.com)
-[Teléfono](tel:0034611274833)
+[Teléfono](tel:+34611274833)
+
 
 
