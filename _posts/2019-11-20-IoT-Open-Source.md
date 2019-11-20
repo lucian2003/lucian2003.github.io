@@ -7,7 +7,7 @@ Proyectos sobre placas Arduino
 
 ### Arduino, Raspberry Pi
 
-![_config.yml]({{ site.baseurl }}/images/appsypaginasweb.png)
+![_config.yml]({{ site.baseurl }}/images/arduino.jpg)
 
 
 Consulte mis proyectos en: [GitHub](https://github.com/lucian2003)
