@@ -6,13 +6,17 @@ permalink: /sobre-mi/
 
 ### Información sobre mi
 
+
 Experiencia laboral:
+
 Freelance: Desarrollador de software
 
 [AppsyPáginaWeb.com](https://www.appsypaginasweb.com/) - Creación de páginas web y aplicaciones para Smartphones.
 
+
 Estudios:
-Grado en IngenierÍa InformÁtica en Unirversidad Internacional de La Rioja
+
+Grado en IngenierÍa Informática en la Universidad Internacional de La Rioja
 
 ### Contactar conmigo
 
