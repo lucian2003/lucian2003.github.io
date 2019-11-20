@@ -10,6 +10,6 @@ Páginas web personales, corporativas, tiendas online
 ![_config.yml]({{ site.baseurl }}/images/appsypaginasweb.png)
 
 
-Consulte nuestros trabajos en: [AppsyPáginasWeb.com](https://www.appsypaginasweb.com/paginas-web/)
+Consulte mis trabajos en: [AppsyPáginasWeb.com](https://www.appsypaginasweb.com/paginas-web/)
 
 [Volver](https://lucian2003.github.io/)
