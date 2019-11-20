@@ -16,7 +16,7 @@ Freelance: Desarrollador de software
 
 Estudios:
 
-Grado en IngenierÍa Informática en la Universidad Internacional de La Rioja
+Grado en Ingeniería Informática en la Universidad Internacional de La Rioja
 
 ### Contactar conmigo
 
